@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Cloud Nest Bed",
+    "category": "Sleep & Comfort",
+    "price": 64,
+    "image": "assets/products/cloud-nest-bed.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sage Everyday Collar",
+    "category": "Walk & Travel",
+    "price": 22,
+    "image": "assets/products/sage-collar.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sage Trail Leash",
+    "category": "Walk & Travel",
+    "price": 29,
+    "image": "assets/products/sage-leash.jpg"
+  },
+  {
+    "id": 4,
+    "name": "AirMesh Comfort Harness",
+    "category": "Walk & Travel",
+    "price": 38,
+    "image": "assets/products/sand-harness.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Everyday Feeding Bowl",
+    "category": "Feeding",
+    "price": 24,
+    "image": "assets/products/daily-feeding-bowl.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Trail Water Bottle Set",
+    "category": "Travel",
+    "price": 27,
+    "image": "assets/products/trail-water-bottle.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Olive Comfort Chew",
+    "category": "Play",
+    "price": 16,
+    "image": "assets/products/olive-chew-bone.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Heritage Rope Tug",
+    "category": "Play",
+    "price": 18,
+    "image": "assets/products/rope-tug-toy.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Cloud Cat Cave",
+    "category": "Cats",
+    "price": 52,
+    "image": "assets/products/cloud-cat-bed.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Natural Sisal Scratcher",
+    "category": "Cats",
+    "price": 44,
+    "image": "assets/products/sisal-scratch-post.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Feather Play Wand",
+    "category": "Cats",
+    "price": 14,
+    "image": "assets/products/feather-play-wand.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Voyager Soft Carrier",
+    "category": "Travel",
+    "price": 79,
+    "image": "assets/products/voyager-carrier.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Bamboo Feeding Station",
+    "category": "Feeding",
+    "price": 69,
+    "image": "assets/products/bamboo-feeding-station.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Pawprint Comfort Blanket",
+    "category": "Home",
+    "price": 32,
+    "image": "assets/products/pawprint-fleece-blanket.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Daily Grooming Brush",
+    "category": "Grooming",
+    "price": 21,
+    "image": "assets/products/daily-grooming-brush.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Care Nail Clippers",
+    "category": "Grooming",
+    "price": 18,
+    "image": "assets/products/care-nail-clippers.jpg"
+  }
+]
